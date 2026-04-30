@@ -1,3 +1,5 @@
 command we use in this projecy
 
- ```bash sudo su ```
+ ```bash 
+ sudo su 
+ ```
